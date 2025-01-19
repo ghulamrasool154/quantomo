@@ -1,0 +1,810 @@
+{
+  "content": {
+    "header": {
+      "navigation": [
+        {
+          "name": "Home",
+          "link": "/"
+        },
+        {
+          "name": "About Us",
+          "link": "/about"
+        },
+        {
+          "name": "Technology",
+          "link": "/technology"
+        },
+        {
+          "name": "Applications",
+          "link": "/applications"
+        },
+        {
+          "name": "Contact Us",
+          "link": "/contact"
+        }
+      ],
+      "button": "Contact Us"
+    },
+    "seo": {
+      "name": "Quantomo",
+      "url": "https://www.quantomo.com",
+      "description": "Quantomo - The Quantum Search Algorithm for the Vogon Cloud. Experience the next generation of search technology powered by quantum computing.",
+      "language": "en",
+      "pages": [
+        {
+          "title": "Home",
+          "url": "/",
+          "metaDescription": "Welcome to Quantomo, the revolutionary quantum search algorithm designed for the Vogon Cloud. Discover how we are transforming data search and analysis.",
+          "keywords": [
+            "Quantomo",
+            "Quantum Search Engine",
+            "Vogon Cloud",
+            "Quantum Computing",
+            "Data Analysis"
+          ],
+          "content": [
+            {
+              "section": "Introduction",
+              "content": "Quantomo leverages quantum computing to redefine data search and retrieval across industries. Learn more about our cutting-edge technology."
+            },
+            {
+              "section": "Features",
+              "content": "Explore the unique features of Quantomo, including quantum speed, semantic richness, and distributed intelligence."
+            }
+          ]
+        },
+        {
+          "title": "About Us",
+          "url": "/about",
+          "metaDescription": "Learn more about Quantomo and our mission to revolutionize data search with quantum computing technology.",
+          "keywords": [
+            "About Quantomo",
+            "Quantum Technology",
+            "Innovative Search Solutions"
+          ],
+          "content": [
+            {
+              "section": "Our Mission",
+              "content": "At Quantomo, we aim to push the boundaries of what is possible with quantum computing and data management."
+            },
+            {
+              "section": "Our Team",
+              "content": "Meet the brilliant minds behind Quantomo, dedicated to transforming the landscape of search technology."
+            }
+          ]
+        },
+        {
+          "title": "Technology",
+          "url": "/technology",
+          "metaDescription": "Dive deep into the cutting-edge quantum computing technologies that power Quantomo. Understand the science behind Quantum Analytic Tomography and its applications.",
+          "keywords": [
+            "Quantomo Technology",
+            "Quantum Computing",
+            "Quantum Algorithms",
+            "Quantum Analytic Tomography",
+            "Advanced Data Analysis"
+          ],
+          "content": [
+            {
+              "section": "Quantum Computing Basics",
+              "content": "Explore the fundamentals of quantum computing including qubits, superposition, and entanglement, and how these principles form the backbone of Quantomo."
+            },
+            {
+              "section": "Quantomo's Quantum Algorithms",
+              "content": "Learn about the specific quantum algorithms used by Quantomo, such as Grover's algorithm for database searching and Shor's algorithm for data security."
+            },
+            {
+              "section": "Quantum Analytic Tomography",
+              "content": "Understand how Quantomo utilizes Quantum Analytic Tomography to map and analyze data relationships dynamically across various industries."
+            },
+            {
+              "section": "Integration with Vogon Cloud",
+              "content": "Discover how Quantomo integrates seamlessly with the Vogon Cloud, leveraging distributed quantum ledger technology for enhanced data security and processing speed."
+            },
+            {
+              "section": "Future Developments",
+              "content": "Get a glimpse into the future of Quantomo, including upcoming enhancements and potential new applications in different sectors."
+            }
+          ]
+        },
+        {
+          "title": "Applications",
+          "url": "/applications",
+          "metaDescription": "Explore how Quantomo revolutionizes data search and analysis across all 11 GICS sectors, enhancing operations and insights.",
+          "keywords": [
+            "Quantomo Applications",
+            "GICS Sectors",
+            "Industry Solutions",
+            "Quantum Search Use Cases"
+          ],
+          "content": [
+            {
+              "sector": "Information Technology",
+              "group": "Technology Hardware & Equipment",
+              "industry": "Technology Hardware, Storage & Peripherals",
+              "subIndustry": "Data Storage Devices",
+              "benefits": "Quantomo enhances data retrieval speeds and accuracy, significantly improving data analysis and decision-making processes in data storage solutions."
+            },
+            {
+              "sector": "Financials",
+              "group": "Banks",
+              "industry": "Diversified Banks",
+              "subIndustry": "Commercial Banks",
+              "benefits": "Quantomo provides advanced pattern recognition for fraud detection and complex risk assessment, crucial for commercial banking operations."
+            },
+            {
+              "sector": "Health Care",
+              "group": "Pharmaceuticals, Biotechnology & Life Sciences",
+              "industry": "Biotechnology",
+              "subIndustry": "Genetic & Molecular Diagnostics",
+              "benefits": "In genetic diagnostics, Quantomo accelerates the analysis of large genomic datasets, enhancing personalized medicine approaches."
+            },
+            {
+              "sector": "Consumer Discretionary",
+              "group": "Automobiles & Components",
+              "industry": "Automobiles",
+              "subIndustry": "Automobile Manufacturers",
+              "benefits": "Quantomo optimizes supply chain logistics and real-time quality control, driving efficiency in automobile manufacturing."
+            },
+            {
+              "sector": "Consumer Staples",
+              "group": "Food & Staples Retailing",
+              "industry": "Food Retail",
+              "subIndustry": "Supermarkets",
+              "benefits": "Quantomo aids in managing inventory and predicting consumer buying patterns, crucial for supermarkets to optimize stock and reduce waste."
+            },
+            {
+              "sector": "Energy",
+              "group": "Energy",
+              "industry": "Oil, Gas & Consumable Fuels",
+              "subIndustry": "Integrated Oil & Gas",
+              "benefits": "Quantomo enhances exploration data analysis and operational efficiency in oil and gas production, leading to cost savings and reduced environmental impact."
+            },
+            {
+              "sector": "Industrials",
+              "group": "Capital Goods",
+              "industry": "Aerospace & Defense",
+              "subIndustry": "Aerospace & Defense",
+              "benefits": "Quantomo facilitates advanced simulations and real-time monitoring of aerospace systems, improving safety and performance metrics."
+            },
+            {
+              "sector": "Utilities",
+              "group": "Utilities",
+              "industry": "Electric Utilities",
+              "subIndustry": "Renewable Electricity",
+              "benefits": "Quantomo enables more efficient management of renewable energy sources, optimizing distribution and enhancing grid stability."
+            },
+            {
+              "sector": "Real Estate",
+              "group": "Real Estate",
+              "industry": "Equity Real Estate Investment Trusts (REITs)",
+              "subIndustry": "Retail REITs",
+              "benefits": "Quantomo provides insights into market trends and tenant behaviors, crucial for retail REITs to maximize occupancy and rental income."
+            },
+            {
+              "sector": "Materials",
+              "group": "Materials",
+              "industry": "Chemicals",
+              "subIndustry": "Specialty Chemicals",
+              "benefits": "Quantomo improves formulation and testing processes in specialty chemicals, enhancing product development and innovation."
+            },
+            {
+              "sector": "Communication Services",
+              "group": "Telecommunication Services",
+              "industry": "Diversified Telecommunication Services",
+              "subIndustry": "Integrated Telecommunication Services",
+              "benefits": "Quantomo optimizes network operations and customer service through advanced data analytics, crucial for integrated telecom services."
+            }
+          ]
+        },
+        {
+          "title": "Contact Us",
+          "url": "/contact",
+          "metaDescription": "Get in touch with the Quantomo team for more information or to request a demo of our quantum search technology.",
+          "keywords": [
+            "Contact Quantomo",
+            "Request Demo",
+            "Quantum Search Inquiry"
+          ],
+          "content": [
+            {
+              "section": "Contact Information",
+              "content": "Reach out to us via email, phone, or visit our office for any inquiries or to see Quantomo in action."
+            },
+            {
+              "section": "Demo Request",
+              "content": "Fill out our form to request a live demo and see how Quantomo can transform your data search and analysis."
+            }
+          ]
+        }
+      ],
+      "navigation": [
+        {
+          "name": "Home",
+          "link": "/"
+        },
+        {
+          "name": "About Us",
+          "link": "/about"
+        },
+        {
+          "name": "Technology",
+          "link": "/technology"
+        },
+        {
+          "name": "Applications",
+          "link": "/applications"
+        },
+        {
+          "name": "Contact Us",
+          "link": "/contact"
+        }
+      ]
+    },
+    "footer": {},
+    "pages": {
+      "home": {
+        "title": "Home",
+        "prompt": "What if you could discover insights beyond your current search capabilities?",
+        "metaDescription": "Welcome to QuanTomo, the revolutionary quantum search algorithm designed for the Vogon Cloud. Discover how we are transforming data search and analysis.",
+        "keywords": [
+          "QuanTomo",
+          "Quantum Search Engine",
+          "Vogon Cloud",
+          "Quantum Computing",
+          "Data Analysis"
+        ],
+        "content": [
+          {
+            "section": "Hero",
+            "header": "Don't search. Discover!",
+            "subHeader": "Unveil hidden insights with the power of Quantum Analytic Tomography.",
+            "content": "Dive into the depths of data with QuanTomo, where our quantum algorithms ask the right questions for you, revealing insights that traditional search technologies simply cannot see.",
+            "buttonText": "Explore QuanTomo",
+            "buttonLink": "Can you explain to me in simple terms what Quantomo does in a way that an 18-year-old would understand?"
+
+          },
+          {
+            "section": "Introduction",
+            "header": "Why QuanTomo?",
+            "content": "Today there is so much data that we don't know what we don't know and we don't know what questions to ask. Not anymore! Introducing QuanTomo! In the era of big data, the challenge isn't just finding answers—it's knowing what questions to ask. QuanTomo transcends traditional search limits with its apriori discovery capabilities, powered by Quantum Analytic Tomography. This allows us to proactively uncover and answer the crucial questions hidden within vast data sets.",
+            "links": [
+              {
+                "text": "Learn more about our revolutionary technology",
+                "prompt": "What makes QuanTomo revolutionary?"
+              }
+            ]
+          },
+          {
+            "section": "Features",
+            "header": "Key Features of QuanTomo",
+            "content": "QuanTomo isn't just faster; it's smarter. Discover how our unique features set us apart from conventional search engines and data analysis tools.",
+            "subSections": [
+              {
+                "subHeader": "Proactive Questioning",
+                "content": "QuanTomo doesn't wait for you to ask; it anticipates your needs by analyzing patterns and relationships in data to ask and answer the most pertinent questions.",
+                "link": {
+                  "text": "How proactive questioning works",
+                  "prompt": "How does proactive questioning enhance data analysis?"
+                }
+              },
+              {
+                "subHeader": "Quantum Speed",
+                "content": "Leverage the unparalleled speed of quantum computing to navigate through multi-dimensional data spaces almost instantaneously.",
+                "link": {
+                  "text": "Explore the speed of quantum computing",
+                  "prompt": "What does quantum speed mean for your data?"
+                }
+              },
+              {
+                "subHeader": "Semantic Depth",
+                "content": "Go beyond surface-level data with deep semantic analysis that understands the context and relevance of information.",
+                "link": {
+                  "text": "Benefits of semantic depth",
+                  "prompt": "How does semantic depth transform data understanding?"
+                }
+              }
+            ]
+          },
+          {
+            "section": "GICS",
+            "subSection": [
+              {
+                "title": "GICS",
+                "image": "/assets/gics/gics_msci.jpg",
+                "icon": "/assets/gics.svg",
+                "buttonLink": "What is GICS?"
+              },
+              {
+                "title": "ENERGY",
+                "image": "/assets/gics/gics_energy.jpg",
+                "icon": "/assets/energy.svg",
+                "buttonLink": "How will QuanTomo assist the Energy sector in optimizing resource management and advancing sustainable energy solutions?"
+              },
+              {
+                "title": "MATERIALS",
+                "image": "/assets/gics/gics_materials.jpg",
+                "icon": "/assets/materials.svg",
+                "buttonLink": "How will QuanTomo assist the Materials sector in accelerating the development of new materials and optimizing resource extraction with quantum-powered simulations?"
+              },
+              {
+                "title": "INDUSTRIALS",
+                "icon": "/assets/industrials.svg",
+                "image": "/assets/gics/gics_industrials.jpg",
+                "buttonLink": "How will QuanTomo assist the Industrials sector in optimizing supply chain operations and predictive maintenance using quantum-driven analytics?"
+              },
+              {
+                "title": "Consumer Discretionary",
+                "icon": "/assets/consumer_discretionary.svg",
+                "image": "/assets/gics/gics_consumer_discretionary.jpg",
+                "buttonLink": "How will QuanTomo assist the Consumer Discretionary sector in improving customer experience and market forecasting through quantum-enhanced simulations?"
+              },
+              {
+                "title": "Consumer Staples",
+                "icon": "/assets/consumer_staples.svg",
+                "image": "/assets/gics/gics_consumer_staples.jpg",
+                "buttonLink": "How will QuanTomo assist the Consumer Staples sector in ensuring supply chain resilience and sustainability by leveraging quantum computing capabilities?"
+              },
+              {
+                "title": "Health Care",
+                "icon": "/assets/healthcare.svg",
+                "image": "/assets/gics/gics_health_care.jpg",
+                "buttonLink": "How will QuanTomo assist the Health Care sector in accelerating drug discovery and personalized medicine through advanced data analysis?"
+              },
+              {
+                "title": "Financials",
+                "icon": "/assets/financial.svg",
+                "image": "/assets/gics/gics_financials.jpg",
+                "buttonLink": "How will QuanTomo assist the Financials sector in improving transaction efficiency, risk assessment, and fraud detection using quantum computing?"
+              },
+              {
+                "title": "Information Technology",
+                "icon": "/assets/information_technology.svg",
+                "image": "/assets/gics/gics_information_technology.jpg",
+                "buttonLink": "How will QuanTomo assist the Information Technology sector in driving innovation through quantum algorithms and enhancing AI performance?"
+              },
+              {
+                "title": "Communication Services",
+                "icon": "/assets/communication.svg",
+                "image": "/assets/gics/gics_communication_services.jpg",
+                "buttonLink": "How will QuanTomo assist the Communication Services sector in driving innovation through quantum algorithms and enhancing AI performance?"
+              },
+              {
+                "title": "Utilities",
+                "icon": "/assets/utilities.svg",
+                "image": "/assets/gics/gics_utilities.jpg",
+                "buttonLink": "How will QuanTomo assist the Utilities sector in enhancing grid optimization, energy distribution, and demand forecasting through quantum technology?"
+              },
+              {
+                "title": "Real Estate",
+                "icon": "/assets/real_estate.svg",
+                "image": "/assets/gics/gics_real_estate.jpg",
+                "buttonLink": "How will QuanTomo assist the Real Estate sector in improving investment strategies, property valuations, and risk management using quantum models?"
+              }
+            ]
+          },
+          {
+            "section": "Impact",
+            "header": "Transforming Industries with Quantum Insight",
+            "content": "QuanTomo is revolutionizing industries by providing insights that are not just faster, but fundamentally more profound. See how different sectors are benefiting from quantum-enhanced data analysis.",
+            "buttonText": "See Industry Applications",
+            "buttonLink": "Which industries are transformed by QuanTomo?"
+          },
+          {
+            "section": "Call to Action",
+            "header": "Are You Ready to Uncover the Unknown?",
+            "content": "Step beyond conventional analytics with QuanTomo and start discovering valuable insights that you didn't even know existed. Let's redefine how you interact with data.",
+            "buttonText": "Request a Demo",
+            "buttonLink": "How can I schedule a demo?"
+          }
+        ]
+      },
+      "technology": {
+        "title": "Quantomo Technology",
+        "prompt": "How is Quantum Technology Empowering Advanced Data Analysis?",
+        "metaDescription": "Dive deep into the cutting-edge quantum computing technologies that power Quantomo. Understand the science behind Quantum Analytic Tomography and its applications.",
+        "keywords": [
+          "Quantomo Technology",
+          "Quantum Computing",
+          "Quantum Algorithms",
+          "Quantum Analytic Tomography",
+          "Advanced Data Analysis"
+        ],
+        "content": [
+          {
+            "section": "Hero",
+            "header": "Exploring Quantomo's Advanced Technology",
+            "subHeader": "The Quantum Mechanics of Data Analysis",
+            "content": "At Quantomo, we leverage quantum computing to redefine data analysis. Our technology is built on the principles of quantum mechanics, enabling us to solve complex data challenges that are beyond the reach of traditional algorithms.",
+            "buttonText": "Learn More About Our Technology",
+            "buttonLink": "What is Quantum Computing?"
+          },
+          {
+            "section": "Quantum Computing Basics",
+            "header": "Quantum Computing Foundations",
+            "content": "Quantum computing operates on the principles of quantum mechanics, utilizing qubits that can exist in multiple states simultaneously (superposition) and are interconnected (entanglement). These principles form the backbone of Quantomo, allowing for parallel data processing and significantly faster computations than classical systems.",
+            "links": [
+              {
+                "text": "Explore the basics of quantum computing",
+                "prompt": "Why are quantum principles crucial for advanced data analysis?"
+              }
+            ]
+          },
+          {
+            "section": "Quantomo's Quantum Algorithms",
+            "header": "Quantomo's Quantum Algorithms",
+            "content": "Quantomo employs specialized quantum algorithms, including Grover's algorithm for efficient database searching and Shor's algorithm for robust data security. These algorithms optimize our ability to quickly access and secure data, providing a competitive edge in data analysis.",
+            "links": [
+              {
+                "text": "Learn about our quantum algorithms",
+                "prompt": "How do Grover's and Shor's algorithms enhance Quantomo's performance?"
+              }
+            ]
+          },
+          {
+            "section": "Quantum Analytic Tomography",
+            "header": "Quantum Analytic Tomography in Action",
+            "content": "Quantomo utilizes Quantum Analytic Tomography to dynamically map and analyze complex data relationships across industries. This advanced technique allows us to uncover patterns and insights that are invisible to conventional analytics tools, offering our clients unique and actionable intelligence.",
+            "links": [
+              {
+                "text": "Understand Quantum Analytic Tomography",
+                "prompt": "What advantages does Quantum Analytic Tomography offer over traditional methods?"
+              }
+            ]
+          },
+          {
+            "section": "Integration with Vogon Cloud",
+            "header": "Seamless Integration with Vogon Cloud",
+            "content": "Quantomo is fully integrated with the Vogon Cloud, utilizing its distributed quantum ledger technology to enhance data security and processing speed. This integration ensures that Quantomo operates at the forefront of quantum data technology, with scalable solutions across various sectors.",
+            "links": [
+              {
+                "text": "Discover our integration with Vogon Cloud",
+                "prompt": "How does Vogon Cloud support Quantomo's capabilities?"
+              }
+            ]
+          },
+          {
+            "section": "Future Developments",
+            "header": "The Future of Quantomo",
+            "content": "Quantomo is committed to continuous innovation. We are actively developing new features and applications to enhance our quantum data analysis capabilities. Future developments include deeper AI integration and expanded industry-specific solutions, ensuring that Quantomo remains at the cutting edge of technology.",
+            "links": [
+              {
+                "text": "Explore future developments",
+                "prompt": "What new features are coming to Quantomo?"
+              }
+            ]
+          },
+          {
+            "section": "Call to Action",
+            "header": "Experience Quantum-Powered Data Analysis",
+            "content": "Ready to transform your data analysis with the power of quantum computing? Contact us to learn how Quantomo can provide you with unparalleled insights and solutions.",
+            "buttonText": "Contact Us",
+            "buttonLink": "Are you ready to leverage Quantomo for your data needs?"
+          }
+        ]
+      },
+      "contact": {
+        "title": "Contact Quantomo",
+        "prompt": "Connect with Us Today",
+        "metaDescription": "Get in touch with the Quantomo team for more information or to request a demo of our quantum search technology.",
+        "keywords": [
+          "Contact Quantomo",
+          "Request Demo",
+          "Quantum Search Inquiry"
+        ],
+        "content": [
+          {
+            "section": "Hero",
+            "header": "We're Here to Help",
+            "subHeader": "Contact the Quantomo Team",
+            "content": "Have questions about how quantum computing can revolutionize your data analysis? Our team is ready to provide answers and show you the power of Quantomo.",
+            "buttonText": "Request Information",
+            "buttonLink": "How can I request the information about Quantomo?"
+          },
+          {
+            "section": "Contact Information",
+            "header": "Reach Out to Us",
+            "content": "Whether you're interested in a partnership, need more information, or want to see Quantomo in action, our team is available to assist you. Reach out to us via the following methods:",
+            "subSections": [
+              {
+                "subHeader": "Email",
+                "content": "Send us an email at contact@quantomo.com and we'll get back to you as soon as possible."
+              },
+              {
+                "subHeader": "Phone",
+                "content": "Give us a call at +1-800-QUANTOMO for immediate assistance."
+              },
+              {
+                "subHeader": "Visit Our Office",
+                "content": "Come and see Quantomo firsthand at our headquarters located at 42 Quantum Way, Tech City, QX 12345."
+              }
+            ]
+          },
+          {
+            "section": "Demo Request",
+            "header": "Request a Live Demo",
+            "content": "Experience the transformative power of Quantomo with a live demonstration. Fill out our form to schedule a session and see firsthand how our technology can enhance your data analysis capabilities.",
+            "buttonText": "Request a Demo",
+            "buttonLink": "How can I request the live Demo of Quantomo?"
+          },
+          {
+            "section": "Map and Directions",
+            "header": "Find Us",
+            "content": "Planning a visit? Here’s how you can find us:",
+            "mapEmbed": "Embed Google Maps with location pin at 42 Quantum Way, Tech City, QX 12345"
+          },
+          {
+            "section": "Social Media",
+            "header": "Follow Us",
+            "content": "Stay updated with the latest news and developments from Quantomo by following us on our social media channels.",
+            "links": [
+              {
+                "platform": "Twitter",
+                "url": "https://twitter.com/Quantomo"
+              },
+              {
+                "platform": "LinkedIn",
+                "url": "https://www.linkedin.com/company/quantomo"
+              },
+              {
+                "platform": "Facebook",
+                "url": "https://www.facebook.com/Quantomo"
+              }
+            ]
+          },
+          {
+            "section": "Call to Action",
+            "header": "Get Started with Quantomo",
+            "content": "Ready to explore what Quantomo can do for you? Contact us today to learn more or to schedule a demo. We’re excited to show you how our quantum solutions can transform your data analysis and business insights.",
+            "buttonText": "Contact Us Now",
+            "buttonLink": "How can I contact to get started with Quantomo?"
+          }
+        ]
+      },
+      "applications": {
+        "title": "Quantomo Applications",
+        "prompt": "Discover How Quantomo Transforms Industries",
+        "metaDescription": "Explore how Quantomo revolutionizes data search and analysis across all 11 GICS sectors, enhancing operations and insights.",
+        "keywords": [
+          "Quantomo Applications",
+          "GICS Sectors",
+          "Industry Solutions",
+          "Quantum Search Use Cases"
+        ],
+        "content": [
+          {
+            "section": "Hero",
+            "header": "Applications of Quantomo Across Industries",
+            "subHeader": "Empowering Sectors with Quantum-Enhanced Insights",
+            "content": "Quantomo is not just a tool; it's a game-changer for industries worldwide. By leveraging quantum computing, Quantomo transforms vast data landscapes into actionable insights, driving innovation and efficiency across all sectors.",
+            "buttonText": "Explore Industry Transformations",
+            "buttonLink": "How does Quantomo impact your industry?"
+          },
+          {
+            "section": "Introduction",
+            "header": "Revolutionizing Industries with Quantum Computing",
+            "content": "Quantomo applies the power of quantum computing to solve complex challenges across various sectors. From enhancing data security in financial institutions to optimizing supply chains in manufacturing, Quantomo provides tailored solutions that are not only innovative but also sustainable and efficient."
+          },
+          {
+            "section": "Applications",
+            "header": "Sector-Specific Applications of Quantomo",
+            "content": [
+              {
+                "sector": "Energy",
+                "group": "Energy",
+                "industry": "Oil, Gas & Consumable Fuels",
+                "subIndustry": "Integrated Oil & Gas",
+                "benefits": "Quantomo enhances exploration data analysis and operational efficiency in oil and gas production, leading to cost savings and reduced environmental impact.",
+                "icon": "/assets/energy.svg",
+                "buttonText": "Learn More",
+                "buttonLink": "How will QuanTomo impact the Energy sector at the sub-industry level, such as Oil & Gas Exploration and Renewable Energy, by optimizing exploration methods and improving renewable energy storage solutions through quantum computing?"
+              },
+              {
+                "sector": "Materials",
+                "group": "Materials",
+                "industry": "Chemicals",
+                "subIndustry": "Specialty Chemicals",
+                "benefits": "Quantomo improves formulation and testing processes in specialty chemicals, enhancing product development and innovation.",
+                "icon": "/assets/materials.svg",
+                "buttonText": "Learn More",
+                "buttonLink": "How will QuanTomo impact the Materials sector at the sub-industry level, such as Metals & Mining, Chemicals, and Construction Materials, by accelerating new material discovery and optimizing extraction processes using quantum simulations and data analysis?"
+              },
+              {
+                "sector": "Industrials",
+                "group": "Capital Goods",
+                "industry": "Aerospace & Defense",
+                "subIndustry": "Aerospace & Defense",
+                "benefits": "Quantomo facilitates advanced simulations and real-time monitoring of aerospace systems, improving safety and performance metrics.",
+                "icon": "/assets/industrials.svg",
+                "buttonText": "Learn More",
+                "buttonLink": "How will QuanTomo impact the Industrials sector at the sub-industry level, like Aerospace & Defense, Transportation, and Construction & Engineering, by optimizing manufacturing processes and enhancing predictive maintenance through quantum analytics?"
+              },
+              {
+                "sector": "Consumer Discretionary",
+                "group": "Automobiles & Components",
+                "industry": "Automobiles",
+                "subIndustry": "Automobile Manufacturers",
+                "benefits": "Quantomo optimizes supply chain logistics and real-time quality control, driving efficiency in automobile manufacturing.",
+                "icon": "/assets/consumer_discretionary.svg",
+                "buttonText": "Learn More",
+                "buttonLink": "How will QuanTomo impact the Consumer Discretionary sector at the sub-industry level, including Automobiles, Retailing, and Media, by improving demand forecasting, personalization, and logistics optimization through quantum data analysis?"
+              },
+              {
+                "sector": "Consumer Staples",
+                "group": "Food & Staples Retailing",
+                "industry": "Food Retail",
+                "subIndustry": "Supermarkets",
+                "benefits": "Quantomo aids in managing inventory and predicting consumer buying patterns, crucial for supermarkets to optimize stock and reduce waste.",
+                "icon": "/assets/consumer_staples.svg",
+                "buttonText": "Learn More",
+                "buttonLink": "How will QuanTomo impact the Consumer Staples sector at the sub-industry level, such as Food & Beverage, Household Products, and Personal Products, by improving supply chain efficiency, reducing waste, and enhancing sustainability efforts with quantum computing?"
+              },
+              {
+                "sector": "Health Care",
+                "group": "Pharmaceuticals, Biotechnology & Life Sciences",
+                "industry": "Biotechnology",
+                "subIndustry": "Genetic & Molecular Diagnostics",
+                "benefits": "In genetic diagnostics, Quantomo accelerates the analysis of large genomic datasets, enhancing personalized medicine approaches.",
+                "icon": "/assets/healthcare.svg",
+                "buttonText": "Learn More",
+                "buttonLink": "How will QuanTomo impact the Health Care sector at the sub-industry level, including Biotechnology, Pharmaceuticals, and Health Care Equipment, by accelerating research, optimizing drug delivery, and improving patient outcomes through quantum-enhanced simulations?"
+              },
+              {
+                "sector": "Financials",
+                "group": "Banks",
+                "industry": "Diversified Banks",
+                "subIndustry": "Commercial Banks",
+                "benefits": "Quantomo provides advanced pattern recognition for fraud detection and complex risk assessment, crucial for commercial banking operations.",
+                "icon": "/assets/financial.svg",
+                "buttonText": "Learn More",
+                "buttonLink": "How will QuanTomo impact the Financials sector at the sub-industry level, such as Banks, Asset Management, and Insurance, by revolutionizing risk modeling, portfolio optimization, and fraud prevention with quantum-driven solutions?"
+              },
+              {
+                "sector": "Information Technology",
+                "group": "Technology Hardware & Equipment",
+                "industry": "Technology Hardware, Storage & Peripherals",
+                "subIndustry": "Data Storage Devices",
+                "benefits": "Quantomo enhances data retrieval speeds and accuracy, significantly improving data analysis and decision-making processes in data storage solutions.",
+                "icon": "/assets/information_technology.svg",
+                "buttonText": "Learn More",
+                "buttonLink": "How will QuanTomo impact the Information Technology sector at the sub-industry level, like Software & Services or Semiconductors, by enhancing algorithm efficiency and driving innovation in quantum computing hardware?"
+              },
+              {
+                "sector": "Communication Services",
+                "group": "Telecommunication Services",
+                "industry": "Diversified Telecommunication Services",
+                "subIndustry": "Integrated Telecommunication Services",
+                "benefits": "Quantomo optimizes network operations and customer service through advanced data analytics, crucial for integrated telecom services.",
+                "icon": "/assets/communication.svg",
+                "buttonText": "Learn More",
+                "buttonLink": "How will QuanTomo impact the Communication Services sector at the sub-industry level, like Software & Services or Semiconductors, by enhancing algorithm efficiency and driving innovation in quantum computing hardware?"
+              },
+              {
+                "sector": "Utilities",
+                "group": "Utilities",
+                "industry": "Electric Utilities",
+                "subIndustry": "Renewable Electricity",
+                "benefits": "Quantomo enables more efficient management of renewable energy sources, optimizing distribution and enhancing grid stability.",
+                "icon": "/assets/utilities.svg",
+                "buttonText": "Learn More",
+                "buttonLink": "How will QuanTomo impact the Utilities sector at the sub-industry level, including Electric Utilities, Water Utilities, and Independent Power Producers, by improving grid optimization, energy storage, and distribution efficiency through quantum-enhanced forecasting?"
+              },
+              {
+                "sector": "Real Estate",
+                "group": "Real Estate",
+                "industry": "Equity Real Estate Investment Trusts (REITs)",
+                "subIndustry": "Retail REITs",
+                "benefits": "Quantomo provides insights into market trends and tenant behaviors, crucial for retail REITs to maximize occupancy and rental income.",
+                "icon": "/assets/real_estate.svg",
+                "buttonText": "Learn More",
+                "buttonLink": "How will QuanTomo impact the Real Estate sector at the sub-industry level, including Real Estate Investment Trusts (REITs) and Real Estate Management, by enhancing property valuation, investment strategy optimization, and risk assessment with quantum models?"
+              }
+            ]
+          },
+          {
+            "section": "Summary",
+            "header": "Empowering the Future with Quantum Insights",
+            "content": "As we continue to innovate and expand, Quantomo remains committed to delivering quantum-enhanced solutions that not only meet but exceed the evolving needs of industries worldwide. By transforming data into powerful insights, Quantomo is not just solving today's challenges but also paving the way for a more informed and efficient tomorrow."
+          },
+          {
+            "section": "Call to Action",
+            "header": "Transform Your Industry with Quantomo",
+            "content": "Ready to harness the power of quantum computing for your sector? Contact us to discover how Quantomo can revolutionize your operations and insights.",
+            "buttonText": "Get Started with Quantomo",
+            "buttonLink": "Contact us today to revolutionize your industry with Quantomo."
+          }
+        ]
+      },
+      "about": {
+        "title": "About QuanTomo",
+        "prompt": "Why is QuanTomo the future of data analysis?",
+        "metaDescription": "Learn about QuanTomo, the revolutionary quantum search algorithm designed for the Vogon Cloud. Understand our technology, features, and industry impact.",
+        "keywords": [
+          "QuanTomo",
+          "Quantum Search Engine",
+          "Vogon Cloud",
+          "Quantum Computing",
+          "Data Analysis",
+          "About"
+        ],
+        "content": [
+          {
+            "section": "Hero",
+            "header": "About QuanTomo",
+            "subHeader": "The Quantum Revolution in Data Analysis",
+            "content": "QuanTomo is not just a search engine; it's a new way of interacting with data. Powered by Quantum Analytic Tomography, QuanTomo asks the right questions to uncover the insights that traditional technologies miss.",
+            "buttonText": "Explore the Technology",
+            "buttonLink": "What is Quantum Analytic Tomography?"
+          },
+          {
+            "section": "Our Mission",
+            "header": "Our Mission",
+            "content": "At QuanTomo, our mission is to harness the power of quantum computing to transform data analysis across industries. We aim to provide actionable insights that are not only faster but also more accurate and relevant to your specific needs.",
+            "links": [
+              {
+                "text": "Learn more about our mission",
+                "prompt": "How does QuanTomo empower businesses?"
+              }
+            ]
+          },
+          {
+            "section": "Technology Overview",
+            "header": "How QuanTomo Works",
+            "content": "QuanTomo combines quantum computing with advanced data analysis techniques to proactively ask and answer the crucial questions. Our platform uses Quantum Analytic Tomography to analyze data patterns and relationships at unprecedented speeds.",
+            "links": [
+              {
+                "text": "Discover our technology",
+                "prompt": "What makes QuanTomo's technology unique?"
+              }
+            ]
+          },
+          {
+            "section": "Features",
+            "header": "Key Features of QuanTomo",
+            "content": "Explore the features that make QuanTomo a leader in quantum data analysis.",
+            "subSections": [
+              {
+                "subHeader": "Proactive Questioning",
+                "content": "By anticipating information needs, QuanTomo proactively formulates and answers relevant questions, ensuring you always stay ahead.",
+                "link": {
+                  "text": "Learn about proactive questioning",
+                  "prompt": "How does proactive questioning change data analysis?"
+                }
+              },
+              {
+                "subHeader": "Quantum Speed",
+                "content": "Our quantum algorithms process vast amounts of data in parallel, significantly reducing the time needed to uncover insights.",
+                "link": {
+                  "text": "Explore quantum speed",
+                  "prompt": "What impact does quantum speed have on analysis?"
+                }
+              },
+              {
+                "subHeader": "Semantic Depth",
+                "content": "QuanTomo understands the deeper meaning and context of data, providing richer and more relevant search results.",
+                "link": {
+                  "text": "Understand semantic depth",
+                  "prompt": "Why is semantic depth important?"
+                }
+              }
+            ]
+          },
+          {
+            "section": "Industry Impact",
+            "header": "Transforming Industries",
+            "content": "From healthcare to finance, QuanTomo is revolutionizing how industries handle data. Discover how our technology is making a difference.",
+            "buttonText": "View Industry Case Studies",
+            "buttonLink": "Which industries benefit most from QuanTomo?"
+          },
+          {
+            "section": "Call to Action",
+            "header": "Join the Quantum Revolution",
+            "content": "Are you ready to leverage the power of quantum computing for your data needs? Contact us to see how QuanTomo can transform your business.",
+            "buttonText": "Contact Us",
+            "buttonLink": "Ready to start with QuanTomo?"
+          }
+        ]
+      }
+    }
+  }
+}
